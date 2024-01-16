@@ -10,6 +10,7 @@ import Head from "next/head";
 import Button from "../components/Button";
 import Link from "next/link";
 import Cursor from "../components/Cursor";
+import Timeline from "../components/Timeline";
 
 // Local Data
 import data from "../data/portfolio.json";
@@ -93,9 +94,14 @@ export default function Home() {
 
           <Socials className="mt-2 laptop:mt-5" />
         </div>
+
+        <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+          <h1 className="text-2xl text-bold">Timeline.</h1>
+          <Timeline data={data.timelines} />
+        </div>
+
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Work.</h1>
-
           <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-3 gap-4">
             {data.projects.map((project) => (
               <WorkCard
