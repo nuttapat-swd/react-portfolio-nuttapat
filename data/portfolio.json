@@ -1,9 +1,9 @@
 {
-    "name": "Tum, Nuttapat",
+    "name": "Tum, Nuttapat Chakpech",
     "headerTaglineOne": "Hello 👋",
     "headerTaglineTwo": "I'm Tum - Nuttapat Chakpech",
-    "headerTaglineThree": "Backend Developer",
-    "headerTaglineFour": " based in BKK, Thailand 🇹🇭",
+    "headerTaglineThree": "Software Engineer",
+    "headerTaglineFour": "based in BKK, Thailand 🇹🇭",
     "showCursor": false,
     "showBlog": true,
     "darkMode": true,
@@ -23,6 +23,36 @@
             "id": "3",
             "title": "Email",
             "link": "mailto:nuttapat.forwork@gmail.com"
+        }
+    ],
+    "timelines": [
+        {
+            "id": "1",
+            "title": "Born in Nontaburi Thailand",
+            "detail": "11/08/1997",
+            "date": "",
+            "icon": "heart"
+        },
+        {
+            "id": "2",
+            "title": "(SBTVC) Science-Based Technology Vocational College (Chonburi)",
+            "detail": "Vocational certificate: Electronic technician",
+            "date": "2013 - 2015 (3 years)",
+            "icon": "star"
+        },
+        {
+            "id": "3",
+            "title": "(KMUTT) King Mongkut's University of Technology Thonburi",
+            "detail": "Bachelor's degree: Computer Engineering",
+            "date": "2016 - 2020 (4 years)",
+            "icon": "star"
+        },
+        {
+            "id": "4",
+            "title": "(INEX) Innovative Experiment Company Limited",
+            "detail": "Intern: IoT Engineer",
+            "date": "2019",
+            "icon": "clipboard"
         }
     ],
     "projects": [
