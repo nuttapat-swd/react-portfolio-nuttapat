@@ -5,9 +5,79 @@
     "headerTaglineThree": "Software Engineer",
     "headerTaglineFour": "based in BKK, Thailand 🇹🇭",
     "showCursor": false,
-    "showBlog": true,
+    "showBlog": false,
     "darkMode": true,
     "showResume": true,
+    "skillShields": [
+        {
+            "id": "1",
+            "link" : "https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"
+        },
+        {
+            "id": "2",
+            "link": "https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"
+        },
+        {
+            "id": "3",
+            "link": "https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"
+        },
+        {
+            "id": "4",
+            "link": "https://img.shields.io/badge/Node.JS-8EC719.svg?style=flat&logo=node.js&logoColor=white"
+        },
+        {
+            "id": "5",
+            "link": "https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"
+        },
+        {
+            "id": "6",
+            "link": "https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"
+        },
+        {
+            "id": "7",
+            "link": "https://img.shields.io/badge/FastAPI-%079487.svg?style=flat&logo=fastapi&logoColor=white"
+        },
+        {
+            "id": "8",
+            "link": "https://img.shields.io/badge/Express.JS-F3E02A.svg?style=flat&logo=express&logoColor=black"
+        },
+        {
+            "id": "9",
+            "link": "https://img.shields.io/badge/Gin-1EAED8.svg?style=flat&logo=gin&logoColor=white"
+        },
+        {
+            "id": "9",
+            "link": "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"
+        },
+        {
+            "id": "10",
+            "link": "https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"
+        },
+        {
+            "id": "11",
+            "link": "https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"
+        },
+        {
+            "id": "12",
+            "link": "https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"
+        },
+        {
+            "id": "13",
+            "link": "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"
+        },
+        {
+            "id": "14",
+            "link": "https://img.shields.io/badge/Arduino-3186a0?style=flate&logo=arduino"
+        },
+        {
+            "id": "15",
+            "link": "https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white"
+        },
+        {
+            "id": "16",
+            "link": "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"
+        }
+    ],
     "socials": [
         {
             "id": "1",
@@ -21,6 +91,11 @@
         },
         {
             "id": "3",
+            "title": "Instagram",
+            "link": "https://www.instagram.com/tumnadood/"
+        },
+        {
+            "id": "4",
             "title": "Email",
             "link": "mailto:nuttapat.forwork@gmail.com"
         }
@@ -49,79 +124,95 @@
         },
         {
             "id": "4",
+            "title": "Student Union of the Faculty of Engineering",
+            "detail": "Chairman of Student Union",
+            "date": "2018 - 2019",
+            "icon": "clipboard"
+        },
+        {
+            "id": "5",
             "title": "(INEX) Innovative Experiment Company Limited",
-            "detail": "Intern: IoT Engineer",
+            "detail": "Intern: Internet of Thing Engineer",
             "date": "2019",
             "icon": "clipboard"
+        },
+        {
+            "id": "6",
+            "title": "Teo Hong Silom Co., Ltd",
+            "detail": "Internet of Thing Engineer",
+            "date": "2021 - 2023 (3 years)",
+            "icon": "user"
+        },
+        {
+            "id": "7",
+            "title": "Swift Dynamics Company Limited",
+            "detail": "Backend Developer",
+            "date": "2023 - Now",
+            "icon": "user"
         }
     ],
     "projects": [
         {
             "id": "1",
-            "title": "Project One Test",
-            "description": "Web Design",
-            "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
+            "title": "หนังสือเรียนรู้และสร้างโครงงานวิทยาการคำนวณกับ micro:bit",
+            "description": "Book Writer",
+            "imageSrc": "https://i.imgur.com/fjAoORv.jpeg",
+            "url": "https://inex.co.th/home/product/book-microbit-computing/"
         },
         {
             "id": "2",
-            "title": "Project Two",
-            "description": "Web Development",
-            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
+            "title": "Line Bot for Building Automation System at GHBank",
+            "description": "Developer",
+            "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR72kjDkgKbxXpEnIr48s8b-0fnKP8WhjkHUy3seks61jf1EGnpWhz3ZCe0KpFfyfhUoFDTP9GGpWI1-OPZlzs5VBRApQ=s1600",
+            "url": null
         },
         {
             "id": "3",
-            "title": "Project Three",
-            "description": "Design",
-            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
+            "title": "Access Control System at Thaioil Chonburi",
+            "description": "IoT Engineer | Site Engineer",
+            "imageSrc": "https://www.prachachat.net/wp-content/uploads/2023/08/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%8C-728x483.jpg",
+            "url": null
+        },
+        {
+            "id": "3i",
+            "title": "Integration ACS and Face Recognition Services",
+            "description": "IoT Engineer | Site Engineer",
+            "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRHTu-DxyPrp5fK2Kl8tl_gSRl4oJhHaG4D1KUscEkAtz7Ep4gLwxNWIzsaWJQDYYo1LEn4Ox0XgDEVjIfgSrjo37ECLw=s2560",
+            "url": null
         },
         {
             "id": "4",
-            "title": "Project Four",
-            "description": "Marketing",
-            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
+            "title": "IoT Dashboard Platform",
+            "description": "Backend Developer",
+            "imageSrc": "https://fs.buttercms.com/resize=width:940/dWlDdauFRuGwMbWlAXWT",
+            "url": null
         },
         {
             "id": "5",
-            "title": "Project Five",
-            "description": "Development",
-            "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
-        },
-        {
-            "id": "6",
-            "title": "Project Six",
-            "description": "Design & Development",
-            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
+            "title": "CM Sitearound Web Application",
+            "description": "Backend Developer",
+            "imageSrc": "data:image/png;base64,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",
+            "url": "https://www.sitearound.com/"
         }
     ],
     "services": [
         {
             "id": "1",
-            "title": "Art Direction",
-            "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+            "title": "Backend Developer (Currently)",
+            "description": "Build REST API server, design tools and database, Create and design services."
         },
         {
             "id": "2",
-            "title": "Branding",
-            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+            "title": "Internet of Thing Engineer",
+            "description": "Design solution and build IoT hardware and software systems. Design integration of services."
         },
         {
             "id": "3",
-            "title": "Web Design",
-            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
-        },
-        {
-            "id": "4",
-            "title": "3D Design",
-            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+            "title": "Site Engineer",
+            "description": "Support installation teams, Solve problems, Inspection"
         }
     ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "aboutpara": "Currently, I am IoT Engineer with mostly 3 years of experience since  June 2020. But actually, I’ve had the opportunity to work in many roles. One of them is Back End. That made me interested to learn and want to work in this position.",
     "resume": {
         "tagline": "👋  I'm a software engineer, product designer.",
         "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
@@ -142,30 +233,30 @@
             }
         ],
         "education": [
-            {   
+            {
                 "id": "1",
-                "name": "University X",
-                "date": "2016-2020",
-                "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+                "name": "(SBTVC) Science-Based Technology Vocational College (Chonburi)",
+                "date": "2013-2015",
+                "detail": "Vocational certificate in Electronic technician"
             },
             {
                 "id": "2",
-                "name": "University Y",
+                "name": "(KMUTT) King Mongkut's University of Technology Thonburi",
                 "date": "2016-2020",
-                "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+                "detail": "Bachelor's degree of Engineering in Computer Engineering"
             }
         ],
         "languages": [
-            "Javascript",
-            "HTML5",
-            "CSS",
             "Python",
-            "Go"
+            "Go",
+            "JavaScript",
+            "C"
         ],
         "frameworks": [
-            "React",
-            "Typescript",
-            "NodeJs"
+            "Django REST Framework",
+            "Express.Js",
+            "Gin",
+            "Node-red"
         ],
         "others": [
             "Figma",
