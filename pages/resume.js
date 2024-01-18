@@ -70,7 +70,7 @@ const Resume = () => {
                 <h1 className="text-2xl font-bold">Education</h1>
                 {resume.education.map(
                   ({ id, name, date, detail }) => (
-                    <div className="mt-2">
+                    <div key={id} className="mt-2">
                       <h2 className="text-lg">{name}</h2>
                       <h3 className="text-sm opacity-75">
                         {date}
