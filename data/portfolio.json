@@ -11,71 +11,88 @@
     "skillShields": [
         {
             "id": "1",
-            "link" : "https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"
+            "link" : "https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white",
+            "name" : "cccc"
         },
         {
             "id": "2",
-            "link": "https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"
+            "link": "https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white",
+            "name": "c++++++"
         },
         {
             "id": "3",
-            "link": "https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"
+            "link": "https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54",
+            "name": "Pythonnnn"
         },
         {
             "id": "4",
-            "link": "https://img.shields.io/badge/Node.JS-8EC719.svg?style=flat&logo=node.js&logoColor=white"
+            "link": "https://img.shields.io/badge/Node.JS-8EC719.svg?style=flat&logo=node.js&logoColor=white",
+            "name": "Node.JSss"
         },
         {
             "id": "5",
-            "link": "https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"
+            "link": "https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white",
+            "name": "golang"
         },
         {
             "id": "6",
-            "link": "https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"
+            "link": "https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray",
+            "name": "Django-rest---"
         },
         {
             "id": "7",
-            "link": "https://img.shields.io/badge/FastAPI-%079487.svg?style=flat&logo=fastapi&logoColor=white"
+            "link": "https://img.shields.io/badge/FastAPI-%079487.svg?style=flat&logo=fastapi&logoColor=white",
+            "name": "FastAPI--"
         },
         {
             "id": "8",
-            "link": "https://img.shields.io/badge/Express.JS-F3E02A.svg?style=flat&logo=express&logoColor=black"
+            "link": "https://img.shields.io/badge/Express.JS-F3E02A.svg?style=flat&logo=express&logoColor=black",
+            "name": "Express.JS"
         },
         {
             "id": "9",
-            "link": "https://img.shields.io/badge/Gin-1EAED8.svg?style=flat&logo=gin&logoColor=white"
+            "link": "https://img.shields.io/badge/Gin-1EAED8.svg?style=flat&logo=gin&logoColor=white",
+            "name": "Gin---"
         },
         {
-            "id": "9",
-            "link": "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"
+            "id": "91",
+            "link": "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white",
+            "name": "MongoDB---"
         },
         {
             "id": "10",
-            "link": "https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"
+            "link": "https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white",
+            "name": "postgres--"
         },
         {
             "id": "11",
-            "link": "https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"
+            "link": "https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white",
+            "name": "redis--"
         },
         {
             "id": "12",
-            "link": "https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"
+            "link": "https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white",
+            "name": "docker--"
         },
         {
             "id": "13",
-            "link": "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"
+            "link": "https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white",
+            "name": "postman---"
         },
         {
             "id": "14",
-            "link": "https://img.shields.io/badge/Arduino-3186a0?style=flate&logo=arduino"
+            "link": "https://img.shields.io/badge/Arduino-3186a0?style=flate&logo=arduino",
+            "name": "Arduino---"
         },
         {
             "id": "15",
-            "link": "https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white"
+            "link": "https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white",
+            "name": "Node-red----"
         },
         {
             "id": "16",
-            "link": "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"
+            "link": "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black",
+            "name": "linux---"
         }
     ],
     "socials": [
@@ -156,7 +173,7 @@
             "id": "1",
             "title": "หนังสือเรียนรู้และสร้างโครงงานวิทยาการคำนวณกับ micro:bit",
             "description": "Book Writer",
-            "imageSrc": "https://i.imgur.com/fjAoORv.jpeg",
+            "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRNFJIG4ZE678rsbadhleFqfNeXM408THUd0oPCAW-hYTL4fn8GA5KLdMUidQ4imT1cwrlu_coa4kK9NFbHASKi5vZK_g=s1600",
             "url": "https://inex.co.th/home/product/book-microbit-computing/"
         },
         {
@@ -170,7 +187,7 @@
             "id": "3",
             "title": "Access Control System at Thaioil Chonburi",
             "description": "IoT Engineer | Site Engineer",
-            "imageSrc": "https://www.prachachat.net/wp-content/uploads/2023/08/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B9%8C-728x483.jpg",
+            "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTjWw3YuoRzmedsTGgPwixm4mpsk1DhQDpLJ4kBs34ZNHhT2Hir6A3ZMwTPIJ4I0XdLdgN46XYOFoNBkzWubB4-Nj3F=s2560",
             "url": null
         },
         {
@@ -184,7 +201,7 @@
             "id": "4",
             "title": "IoT Dashboard Platform",
             "description": "Backend Developer",
-            "imageSrc": "https://fs.buttercms.com/resize=width:940/dWlDdauFRuGwMbWlAXWT",
+            "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRd96JcutOQS2_noFESxVfhsm_lpk6R76eoUYYS61xEcH2mkWnrjrO0YKhpajJzJNyxav5vTLvKEGDkFiPxCvz2EgrzZA=s1600",
             "url": null
         },
         {
