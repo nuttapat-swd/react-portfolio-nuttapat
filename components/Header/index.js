@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from "next/legacy/image"
 import { Popover } from "@headlessui/react";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
@@ -39,6 +39,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     }
                   >
                     <Image
+                      width="50"
+                      height="50"
                       className="h-6"
                       src={`/images/${
                         theme === "dark" ? "moon.svg" : "sun.svg"
@@ -49,6 +51,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
 
                 <Popover.Button>
                   <Image
+                    width="50"
+                    height="50"
                     className="h-5"
                     src={`/images/${
                       !open
@@ -154,6 +158,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
               >
                 <Image
+                  width="50"
+                  height="50"
                   className="h-6"
                   src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 />
@@ -184,6 +190,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
               >
                 <Image
+                  width="50"
+                  height="50"
                   className="h-6"
                   src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 />

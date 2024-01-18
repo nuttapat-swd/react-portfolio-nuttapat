@@ -1,5 +1,5 @@
 import React from "react";
-import Image from 'next/image'
+import Image from "next/legacy/image"
 
 
 const WorkCard = ({ img, name, description, onClick }) => {
@@ -13,6 +13,7 @@ const WorkCard = ({ img, name, description, onClick }) => {
         style={{ height: "300px" }}
       >
         <Image
+          layout='fill'
           alt={name}
           className="h-full w-full object-cover hover:scale-110 transition-all ease-out duration-300"
           src={img}
