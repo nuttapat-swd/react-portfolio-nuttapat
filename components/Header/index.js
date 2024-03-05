@@ -82,7 +82,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:nuttapat.forwork@gmail.com")
+                        window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
                       }
                     >
                       Resume
@@ -105,7 +105,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
                   {showResume && (
                     <Button
-                      onClick={() => router.push("/resume")}
+                      onClick={() =>
+                        window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                      }
                       classes="first:ml-1"
                     >
                       Resume
@@ -143,7 +145,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() =>
+                  window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                }
                 classes="first:ml-1"
               >
                 Resume
@@ -174,7 +178,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
             {showResume && (
               <Button
-                onClick={() => router.push("/resume")}
+                onClick={() =>
+                  window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                }
                 classes="first:ml-1"
               >
                 Resume
