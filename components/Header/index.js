@@ -82,7 +82,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                        window.open("https://drive.google.com/file/d/1KnGXHEtzDhjycQiB9AqZL6jaJssYrixG/view?usp=sharing", "_blank", "noreferrer")
                       }
                     >
                       Resume
@@ -106,7 +106,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                        window.open("https://drive.google.com/file/d/1KnGXHEtzDhjycQiB9AqZL6jaJssYrixG/view?usp=sharing", "_blank", "noreferrer")
                       }
                       classes="first:ml-1"
                     >
@@ -146,7 +146,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {showResume && (
               <Button
                 onClick={() =>
-                  window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                  window.open("https://drive.google.com/file/d/1KnGXHEtzDhjycQiB9AqZL6jaJssYrixG/view?usp=sharing", "_blank", "noreferrer")
                 }
                 classes="first:ml-1"
               >
@@ -179,7 +179,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {showResume && (
               <Button
                 onClick={() =>
-                  window.open("https://drive.google.com/file/d/1pqYd3LKnvW4IGdl6075ZDj2FSnC63uhx/view?usp=sharing", "_blank", "noreferrer")
+                  window.open("https://drive.google.com/file/d/1KnGXHEtzDhjycQiB9AqZL6jaJssYrixG/view?usp=sharing", "_blank", "noreferrer")
                 }
                 classes="first:ml-1"
               >
