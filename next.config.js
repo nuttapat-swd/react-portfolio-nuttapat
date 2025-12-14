@@ -18,6 +18,12 @@ const nextConfig = {
         port: '',
         pathname: '/drive-viewer/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'cdn.simpleicons.org',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 }
